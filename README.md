@@ -1,4 +1,4 @@
-# Battery Voltage - Part III
+# Part III: Battery Voltage
 
 In this project, you will learn how to measure a voltage with your Teensy and estimate the remaining battery lifetime of your quadcopter drone. The youtube video below will explain the necessary code and the electronic circuit that will act as a voltage divider.
 
